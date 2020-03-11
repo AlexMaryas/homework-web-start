@@ -1,2 +1,2 @@
 # homework-web-start
-repo with homeworks on the course "web-start"
+repository with homeworks on the course "web-start"
